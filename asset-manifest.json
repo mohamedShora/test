@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/https//mohamedShora.github.io/test/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/https//mohamedShora.github.io/test/static/js/main.a9e0e595.chunk.js",
+    "main.js.map": "/https//mohamedShora.github.io/test/static/js/main.a9e0e595.chunk.js.map",
+    "runtime-main.js": "/https//mohamedShora.github.io/test/static/js/runtime-main.e531fbbf.js",
+    "runtime-main.js.map": "/https//mohamedShora.github.io/test/static/js/runtime-main.e531fbbf.js.map",
+    "static/js/2.cc368304.chunk.js": "/https//mohamedShora.github.io/test/static/js/2.cc368304.chunk.js",
+    "static/js/2.cc368304.chunk.js.map": "/https//mohamedShora.github.io/test/static/js/2.cc368304.chunk.js.map",
+    "static/js/3.50286de8.chunk.js": "/https//mohamedShora.github.io/test/static/js/3.50286de8.chunk.js",
+    "static/js/3.50286de8.chunk.js.map": "/https//mohamedShora.github.io/test/static/js/3.50286de8.chunk.js.map",
+    "index.html": "/https//mohamedShora.github.io/test/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/https//mohamedShora.github.io/test/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.cc368304.chunk.js.LICENSE.txt": "/https//mohamedShora.github.io/test/static/js/2.cc368304.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/https//mohamedShora.github.io/test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e531fbbf.js",
+    "static/js/2.cc368304.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a9e0e595.chunk.js"
+  ]
+}
